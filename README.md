@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm <Your Name> 👋
+*M2 Data Science student* | Interested in **ML**, **NLP**, **MLOps**, **Data Engineering**
 
-<!--
-**NathanVanier/NathanVanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](<your-linkedin-url>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](<your-portfolio-url>)
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:<your-email>)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+- 🎓 M2 Data Science student at **<University>**
+- 🔭 Currently working on: **<project/topic>**
+- 🌱 Learning: **<tools/subjects>** (e.g., LLMs, Spark, Kubernetes)
+- 🎯 Goal: **<target role>** (e.g., Data Scientist / ML Engineer)
+- 📍 Based in: **<City, Country>**
+
+---
+
+## Tech Stack
+**Languages:** Python, SQL, <...>  
+**ML/Data:** scikit-learn, PyTorch/TensorFlow, pandas, NumPy, <...>  
+**Data/Cloud:** Airflow, Spark, Docker, <AWS/GCP/Azure>, <...>  
+**Tools:** Git, Linux, <...>
+
+---
+
+## Featured Projects
+### 1) <Project Name>
+- What it does: <one-line value proposition>
+- Stack: <tools>
+- Results: <metrics if available>
+- Repo: <link>
+
+### 2) <Project Name>
+- What it does: <...>
+- Repo: <link>
+
+### 3) <Project Name>
+- What it does: <...>
+- Repo: <link>
+
+---
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
+
+---
+
+## Contact
+- LinkedIn: <link>
+- Email: <your-email>

@@ -1,52 +1,29 @@
-# Hi, I'm <Your Name> 👋
-*M2 Data Science student* | Interested in **ML**, **NLP**, **MLOps**, **Data Engineering**
+# <Your Name> — M2 Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](<your-linkedin-url>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](<your-portfolio-url>)
-[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:<your-email>)
+## Focus
+I build data products end-to-end: **data extraction → modeling → evaluation → deployment**.
 
----
-
-## About
-- 🎓 M2 Data Science student at **<University>**
-- 🔭 Currently working on: **<project/topic>**
-- 🌱 Learning: **<tools/subjects>** (e.g., LLMs, Spark, Kubernetes)
-- 🎯 Goal: **<target role>** (e.g., Data Scientist / ML Engineer)
-- 📍 Based in: **<City, Country>**
+**Interests:** ML, NLP/LLMs, Time Series, Recommenders, MLOps  
+**Looking for:** Internship / thesis / full-time as **<role>** (from <date>)
 
 ---
 
-## Tech Stack
-**Languages:** Python, SQL, <...>  
-**ML/Data:** scikit-learn, PyTorch/TensorFlow, pandas, NumPy, <...>  
-**Data/Cloud:** Airflow, Spark, Docker, <AWS/GCP/Azure>, <...>  
-**Tools:** Git, Linux, <...>
+## Projects (selected)
+| Project | Problem | Approach | Stack | Link |
+|---|---|---|---|---|
+| <Project 1> | <problem> | <model/approach> | Python, <...> | <repo> |
+| <Project 2> | <problem> | <approach> | <...> | <repo> |
+| <Project 3> | <problem> | <approach> | <...> | <repo> |
 
 ---
 
-## Featured Projects
-### 1) <Project Name>
-- What it does: <one-line value proposition>
-- Stack: <tools>
-- Results: <metrics if available>
-- Repo: <link>
-
-### 2) <Project Name>
-- What it does: <...>
-- Repo: <link>
-
-### 3) <Project Name>
-- What it does: <...>
-- Repo: <link>
+## Skills
+- **Modeling:** scikit-learn, XGBoost, PyTorch, <...>  
+- **Data:** SQL, pandas, Spark, Airflow  
+- **Deployment:** Docker, FastAPI, CI/CD, <cloud>  
+- **Experimentation:** MLflow, Weights & Biases, <...>
 
 ---
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
-
----
-
-## Contact
-- LinkedIn: <link>
-- Email: <your-email>
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true)
